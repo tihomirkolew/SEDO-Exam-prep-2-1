@@ -32,4 +32,7 @@ clearBtn.addEventListener('click', () => {
   document.querySelectorAll('#task-list li.completed')
     .forEach(li => li.remove());
 
+
+
 });
+
